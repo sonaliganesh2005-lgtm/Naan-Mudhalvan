@@ -28,6 +28,3 @@ Technologies Used
 Objective  
 To create a sustainable, cloud-based platform that ensures critical medical supplies reach healthcare facilities efficiently, reducing shortages and improving patient care.
 
-[7](https://www.youtube.com/watch?v=BoRb98r3rBM)
-[8](https://help.salesforce.com/s/articleView?id=sfdo.npsp_config_in_kind_gifts.htm&language=en_US&type=5)
-[9](https://devtechnosys.com/insights/food-donation-app-development-cost/)
