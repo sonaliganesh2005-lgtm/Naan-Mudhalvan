@@ -28,3 +28,5 @@ Technologies Used
 Objective  
 To create a sustainable, cloud-based platform that ensures critical medical supplies reach healthcare facilities efficiently, reducing shortages and improving patient care.
 
+
+Demo Video link : https://drive.google.com/file/d/1UmT4dcRt2z8pYyxSL N5KvMK0X-Aayv8b/view?usp=drive_link
